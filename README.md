@@ -6,5 +6,5 @@ Gabriel Torres C.I. 28.113.535
 
 ### Accesos directos 
 
-* [Ejercicio Completo](analisis_modelo.py)
+* [Ejercicio Completo](051-Pandas-Ejercicios.ipynb)
 * [Ejercicio Corregido](ejercicioCorregido.py)
